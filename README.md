@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Tess-mltx/Tess-mltx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 I’m currently working on :
+- C# TaskList project
+  
+##🌱 I’m currently learning :
+- c#; .NET; ASP.NET; Razor; Entity Framework core; OAuth;
 
-Here are some ideas to get you started:
+## 🚀 My futur projects :
+- C# Kitchen recipes & generated shopping list
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- Email: maloteaux.stacy@gmail.com
+- Phone: +32 494 44 01 22
+<a href="https://www.linkedin.com/in/tess-maloteaux/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tess mltx" height="30" width="40" /></a>
+<a href="https://instagram.com/Tess-mltx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Tess mltx" height="30" width="40" /></a>
+
+
+## ⚡ Fun fact:
+- I love anime and video games, but my true weakness is food!
