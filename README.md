@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working on :
-- C# TaskList project
+<a href="https://github.com/Tess-mltx/TaskListCsharp" target="blank">- C# TaskList project</a>
+<a href="https://github.com/Tess-mltx/MyKitchenApp_CSharp" target="blank">- c# MyKitchenApp project</a>
   
 ##🌱 I’m currently learning :
 - c#; .NET; ASP.NET; Razor; Entity Framework core; OAuth;
