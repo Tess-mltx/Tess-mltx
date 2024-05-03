@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working on :
+## 🔭 Working on :
 - <a href="https://github.com/Tess-mltx/TaskListCsharp" target="blank">C# TaskList project</a>
 - <a href="https://github.com/Tess-mltx/MyKitchenApp_CSharp" target="blank">c# MyKitchenApp project</a>
   
 ##🌱 I’m currently learning :
-- c#; .NET; ASP.NET; Razor; Entity Framework core; OAuth;
-
-<-- ## 🚀 My futur projects : -->
+- c#; .NET; ASP.NET
+- Razor; Entity Framework core
+- OAuth
 
 ## 📫 How to reach me:
 - Email: maloteaux.stacy@gmail.com
@@ -18,3 +18,10 @@
 
 ## ⚡ Fun fact:
 - I love anime and video games, but my true weakness is food!
+
+
+## 🚀 Interest keywords :
+- Snapshot
+- Swagger
+- Scafold identity ASP.NET
+- Angular
