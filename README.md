@@ -7,8 +7,7 @@
 ##🌱 I’m currently learning :
 - c#; .NET; ASP.NET; Razor; Entity Framework core; OAuth;
 
-## 🚀 My futur projects :
-- C# Kitchen recipes & generated shopping list
+<-- ## 🚀 My futur projects : -->
 
 ## 📫 How to reach me:
 - Email: maloteaux.stacy@gmail.com
